@@ -1,11 +1,8 @@
 🟢🟡🔴
 
 <h1 style="text-align: center;">Calculador de NOTA </h1>
-<h2 style="text-align: center;">Exemplos de como funciona o projeto em C / C++</h3>
-<br>
+<h3 style="text-align: center;">Exemplos de como funciona o projeto em C / C++</h3>
 
-
-<br>
 <div style="display:flex; justify-content:center;">
     <div>
         <h2  style="display:flex; justify-content:center; aling-items:center;">🟢 EXEMPLO: APROVADO 🟢</h2>
